@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @sandhya0409
+- 👀 I’m interested in ...
+- data analytics and machine learning.
+- 🌱 I’m currently learning ...
+- deep learning and NLP.
+- 💞️ I’m looking to collaborate on ...
+- data-driven projects and open-source initiatives.
+- 📫 How to reach me ...
+- sandhyashukla142@gmail.com
+-  connect with me on LinkedIn-www.linkedin.com/in/itssandhya
+- 😄 Pronouns: ...
+-  She/Her
+- ⚡ Fun fact: ...
+- I volunteered at an NGO to teach coding to kids, and it opened my eyes to the importance of education.
+
+<!---
+sandhya0409/sandhya0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
